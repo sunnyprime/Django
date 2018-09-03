@@ -16,10 +16,10 @@ Django is a high-level Python Web framework that encourages rapid development an
 ```conda info --envs```
 
 ### 3.	To activate Environment:
-```activate MyDjangoEnv```
+```activate DjangoTest```
 
 ### 4.	To deactivate Environment:
-```deactivate MyDjangoEnv```
+```deactivate DjangoTest```
 
 ### 5.	To install the Django in conda env after activating the environment:
 ```conda install django```
